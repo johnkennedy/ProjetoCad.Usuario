@@ -1,1 +1,0 @@
-pyinstaller --onefile --windowed --icon=RPA_icon.ico --version-file=RPA_bordero.version RPA_bordero.py
